@@ -461,4 +461,9 @@ For issues or questions:
 - IIT Jammu for project requirements
 - Node.js and Express.js communities
 - MySQL documentation
-mu
+
+---
+
+**Happy Coding! 🚀**
+
+Made with ❤️ for IIT Jammu
